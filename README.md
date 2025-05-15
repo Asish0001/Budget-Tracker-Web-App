@@ -17,3 +17,7 @@ A personal budgeting tool that lets users:
 # Pictures
 <img width="1440" alt="Image" src="https://github.com/user-attachments/assets/d5383296-5a01-49c0-a78c-b69024e3f51e" />
 <img width="1440" alt="Image" src="https://github.com/user-attachments/assets/9403ae27-aac7-4bcf-a7eb-9deac75d0b7a" />
+# Future Improvements
+- User authentication
+- Database(SQLite or PostgreSQL)
+- Data visualization
